@@ -114,7 +114,7 @@ body {
 .main__info__title__text__2 {
   padding-top: 30px; }
 
-.img__button__img {
+.img__button {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -122,9 +122,9 @@ body {
   width: 140px;
   background-color: #212121;
   padding: 20px 40px;
-  margin-top: 320px; }
+  margin-top: 120px; }
 
-.main__nav__nav {
+.main__nav {
   background-color: #212121;
   height: 530px;
   width: 120px;
